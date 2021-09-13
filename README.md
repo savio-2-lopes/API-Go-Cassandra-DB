@@ -58,12 +58,12 @@ $ CREATE KEYSPACE new_db_api
 
 $ use new_db_api ;
 
-$new_db_api> create table users (
-              ... first_name text,
-              ... last_name text,
-              ... email text,
-              ... primary key (email)
-              ... );
+$ create table users (
+   ... first_name text,
+   ... last_name text,
+   ... email text,
+   ... primary key (email)
+   ... ) ;
 ```
 
 <br>
