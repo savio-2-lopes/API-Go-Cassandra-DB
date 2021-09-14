@@ -50,6 +50,12 @@ Além disto é bom ter um editor para trabalhar com o código, como [VSCode](htt
 #### 🧭 Configurando o banco de dados Cassandra
 
 ```bash
+# Para habilitar o Apache Cassandra segue o comando abaixo:
+$ cd apache-cassandra-4.0.1/ && bin/cassandra
+
+# Em outro terminal, para se conectar ao banco de dados digite o comando abaixo:
+$ cd apache-cassandra-4.0.1/ && bin/cqlsh
+
 # Execute o seguinte comando para cria o keyspace e as tabelas
 $ CREATE KEYSPACE new_db_api
    ... with replication = {
