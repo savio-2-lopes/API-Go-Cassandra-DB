@@ -42,7 +42,7 @@
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Go Lang](https://golang.org/) e o banco de dados [Apache Cassandra](https://cassandra.apache.org/_/index.html).
+[Git](https://git-scm.com), [Java 8](https://www.oracle.com/java/technologies/javase-downloads.html), [Go Lang](https://golang.org/) e o banco de dados [Apache Cassandra](https://cassandra.apache.org/_/index.html).
 Além disto é bom ter um editor para trabalhar com o código, como [VSCode](https://code.visualstudio.com/)
 
 <br>
