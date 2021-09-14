@@ -55,7 +55,7 @@ Além disto é bom ter um editor para trabalhar com o código, como [VSCode](htt
 $ curl -OL https://downloads.apache.org/cassandra/4.0.1/apache-cassandra-4.0.1-bin.tar.gz
 
 # Descompacte o arquivo .tar.gz baixado:
-$ tar xzvf apache-cassandra-4.0.0-bin.tar.gz
+$ tar xzvf apache-cassandra-4.0.1-bin.tar.gz
 
 # Acesse a pasta desecompatada e habilitar o Apache Cassandra segue o comando abaixo:
 $ cd apache-cassandra-4.0.1/ && bin/cassandra
