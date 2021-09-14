@@ -125,6 +125,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Go Lang](https://golang.org/)
 - [Gocql](github.com/gocql/gocql)
 - [Go-chi](github.com/go-chi/chi)
+- [Apache Cassandra](https://cassandra.apache.org/_/index.html)
 
 <br>
 
