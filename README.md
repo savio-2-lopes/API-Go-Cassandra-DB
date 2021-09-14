@@ -95,7 +95,7 @@ $ cd api_go_cassandra_db
 $ pwd
 
 # Cole o diretório obtido no comando abaixo
-$ go mod init <DIRETORIO>
+$ go mod init MY_DIRECTORY
 
 # Instale a biblioteca do gocql
 $ go get github.com/gocql/gocql
