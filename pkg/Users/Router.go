@@ -6,7 +6,7 @@ import (
 
 func UsersRoutes() *chi.Mux {
 	router := chi.NewRouter() 
-	router.Get("/getUser", getHandler)
+	router.Get("/getall", getHandler)
 	router.Post("/register", postHandler)
 	return router
 }
