@@ -109,7 +109,7 @@ $ go build main.go
 # Execute o package criado
 $ go run main.go
 
-# O backend estará rodando em
+# A API estará rodando no:
 $ http://localhost:8080
 
 ```
