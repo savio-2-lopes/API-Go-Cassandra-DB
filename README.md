@@ -94,7 +94,7 @@ $ cd api_go_cassandra_db
 # Nos import dentro do pkg é necessário registrar o diretório, para isso utilize o seguinte comando na pasta api_go_cassandra_db
 $ pwd
 
-# Cole o diretório obtido no comando abaixo e nos imports dentro dos arquivos .go
+# Cole seu diretório obtido no comando abaixo e nos imports dentro dos arquivos .go
 $ go mod init MY_DIRECTORY
 
 # Instale a biblioteca do gocql
