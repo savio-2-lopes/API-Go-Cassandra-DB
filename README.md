@@ -50,6 +50,10 @@ Além disto é bom ter um editor para trabalhar com o código, como [VSCode](htt
 #### 🧭 Configurando o banco de dados Cassandra
 
 ```bash
+
+# Caso não possua o Apache Cassandra instalado, segue o comando abaixo:
+$ curl -OL https://downloads.apache.org/cassandra/4.0.1/apache-cassandra-4.0.1-bin.tar.gz
+
 # Para habilitar o Apache Cassandra segue o comando abaixo:
 $ cd apache-cassandra-4.0.1/ && bin/cassandra
 
