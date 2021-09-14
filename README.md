@@ -31,7 +31,7 @@
 
 ## 💻 Sobre o projeto
 
-:book: Simples API em Go Lang conectada ao Cassandra DB
+:book: API simples de cadastro desenvolvida em Go Lang, utilizando o banco de dados Apache Cassandra
 
 <br>
 
