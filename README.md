@@ -124,7 +124,7 @@ $ http://localhost:8080
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Apache Cassandra](https://cassandra.apache.org/_/index.html)
+- [Cassandra](https://cassandra.apache.org/_/index.html)
 - [Go Lang](https://golang.org/)
 - [Go-chi](https://github.com/go-chi/chi)
 - [Gocql](https://github.com/gocql/gocql)
